@@ -1,0 +1,30 @@
+/* Additional styles specific to Clubs but reusing Dashboard UI structure */
+.club-category-badge {
+  background: rgba(139, 92, 246, 0.85); /* Purple accent for categories */
+  border: 1px solid rgba(139, 92, 246, 0.4);
+}
+
+.club-desc {
+  -webkit-line-clamp: 3; /* Allow slightly longer description for clubs */
+}
+
+.club-members-container {
+  margin-bottom: auto; /* Push buttons to bottom */
+  padding-bottom: 20px;
+}
+
+.members-count {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #94a3b8;
+  font-size: 14px;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 8px 12px;
+  border-radius: 8px;
+  width: fit-content;
+}
+
+.members-icon {
+  font-size: 16px;
+}

@@ -1,0 +1,26 @@
+﻿
+C:\Users\Shanm\OneDrive\Desktop\campusconnect\client\src\components\ClubDashboard.js
+   44:6  warning  React Hook useEffect has a missing dependency: 'fetchEvents'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  121:9  warning  'logout' is assigned a value but never used                                                                     no-unused-vars
+
+C:\Users\Shanm\OneDrive\Desktop\campusconnect\client\src\components\Dashboard.js
+  36:9  warning  'handleLogout' is assigned a value but never used  no-unused-vars
+
+C:\Users\Shanm\OneDrive\Desktop\campusconnect\client\src\components\MyRegistrations.js
+  20:6  warning  React Hook useEffect has a missing dependency: 'fetchRegistrations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\Shanm\OneDrive\Desktop\campusconnect\client\src\components\Navbar.js
+  11:9  warning  'isClub' is assigned a value but never used  no-unused-vars
+  17:9  warning  'email' is assigned a value but never used   no-unused-vars
+
+C:\Users\Shanm\OneDrive\Desktop\campusconnect\client\src\components\Requests.js
+  13:6  warning  React Hook useEffect has a missing dependency: 'fetchRequests'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\Shanm\OneDrive\Desktop\campusconnect\client\src\components\Resources.js
+  21:6  warning  React Hook useEffect has a missing dependency: 'fetchResources'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\Shanm\OneDrive\Desktop\campusconnect\client\src\components\Tasks.js
+  22:6  warning  React Hook useEffect has a missing dependency: 'fetchTasks'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Γ£û 9 problems (0 errors, 9 warnings)
+

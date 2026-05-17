@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "69b1d1e18f383714e20b3d79",
+    "name": "Alexa Developers Club",
+    "description": "Building voice-first experiences",
+    "category": "Technical",
+    "members": [
+      "sy8754@srmist.edu.in"
+    ],
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+    "__v": 1
+  },
+  {
+    "_id": "69b1d20c8f383714e20b3d7b",
+    "name": "NSS (National Service Scheme)",
+    "description": "Dedicated to social service, community development, and creating positive change in society.",
+    "category": "Social Service",
+    "members": [
+      "sy8754@srmist.edu.in"
+    ],
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "__v": 1
+  },
+  {
+    "_id": "69b1d21c8f383714e20b3d7d",
+    "name": "Microsoft Innovations Club",
+    "description": "Empowering students with Microsoft technologies, cloud computing, and AI solutions.",
+    "category": "Technical",
+    "members": [],
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "__v": 0
+  },
+  {
+    "_id": "69b1d22e8f383714e20b3d7f",
+    "name": "Google Developer Student Club (GDSC)",
+    "description": "Learn Google technologies and build solutions for local communities.",
+    "category": "Technical",
+    "members": [],
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "__v": 0
+  },
+  {
+    "_id": "69b1d23b8f383714e20b3d81",
+    "name": "Photography Club",
+    "description": "Capture moments and learn photography techniques with creative enthusiasts.",
+    "category": "Creative",
+    "members": [
+      "shanmukhi@srmist.edu.in"
+    ],
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd",
+    "__v": 1
+  }
+]

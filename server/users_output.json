@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "69b7ba48e58ad41db0806c86",
+    "name": "Sam",
+    "email": "sam@alexadevelopers.edu.in",
+    "role": "club_member",
+    "clubName": "Alexa Developers",
+    "password": "abc"
+  },
+  {
+    "_id": "69b7bac6e58ad41db0806c88",
+    "name": "Aravind",
+    "email": "aravind@nss.edu.in",
+    "role": "club_member",
+    "clubName": "NSS (National Service Scheme)",
+    "password": "abcd"
+  },
+  {
+    "_id": "69b7bb1be58ad41db0806c8a",
+    "name": "Preet",
+    "email": "preet@microsoftinnovations.edu.in",
+    "role": "club_member",
+    "clubName": "Micrisoft Innovations Club",
+    "password": "abc"
+  },
+  {
+    "_id": "69b7c11c61135e2b1c1a7183",
+    "name": "NSS Head",
+    "email": "admin@nss.edu.in",
+    "role": "club_member",
+    "clubName": "NSS (National Service Scheme)",
+    "password": "123"
+  }
+]
